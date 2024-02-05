@@ -13,26 +13,26 @@
             "RoomName": "TheOfficePvP"
         },
         {
-            "SavedImageId": 5,
-            "ImageName": "bkdkeyc3wo6wkaesmjshgi0pa",
+            "SavedImageId": 9,
+            "ImageName": "bkdkeyc3wo6wkaesmjshgi0pa.jpg",
             "Username": "lol",
             "RoomName": "lol"
         },
         {
             "SavedImageId": 6,
-            "ImageName": "DefaultRoomImage",
+            "ImageName": "DefaultRoomImage.jpg",
             "Username": "CatLover56",
             "RoomName": "CatWorldForCatLovers"
         },
         {
             "SavedImageId": 7,
-            "ImageName": "3mbuvs4sg7gg2609ecu2i7r21",
+            "ImageName": "3mbuvs4sg7gg2609ecu2i7r21.jpg",
             "Username": "Random",
             "RoomName": "Park"
         },
         {
             "SavedImageId": 8,
-            "ImageName": "2216jpkisfj52riph715apc0n",
+            "ImageName": "2216jpkisfj52riph715apc0n.jpg",
             "Username": "Cooldude7852",
             "RoomName": "GoldenTrophy"
         },
