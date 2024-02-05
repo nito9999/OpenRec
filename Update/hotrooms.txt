@@ -1,8 +1,8 @@
 [
     {
         "RoomId": 29,
-        "Name": "Custom Room",
-        "Description": "Custom Room",
+        "Name": "Party",
+        "Description": "This room is beta.",
         "CreatorPlayerId": 1,
         "ImageName": "CustomRoom.png",
         "State": 0,
