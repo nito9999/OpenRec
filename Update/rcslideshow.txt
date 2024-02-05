@@ -32,7 +32,7 @@
         },
         {
             "SavedImageId": 8,
-            "ImageName": "https://img.rec.net/2216jpkisfj52riph715apc0n.jpg",
+            "ImageName": "https://raw.githubusercontent.com/nito9999/OpenRec/master/2216jpkisfj52riph715apc0n.jpg",
             "Username": "Cooldude7852",
             "RoomName": "GoldenTrophy"
         },
