@@ -19,5 +19,5 @@
             "RoomName": "USSCoach"
         }
     ],
-    "ValidTill": "2024-06-09T19:06:44.927Z"
+    "ValidTill": "2069-06-09T19:06:44.927Z"
 }
