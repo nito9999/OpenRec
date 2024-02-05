@@ -26,7 +26,7 @@
         },
         {
             "SavedImageId": 7,
-            "ImageName": "https://img.rec.net/3mbuvs4sg7gg2609ecu2i7r21.jpg",
+            "ImageName": "https://raw.githubusercontent.com/nito9999/OpenRec/master/3mbuvs4sg7gg2609ecu2i7r21.jpg",
             "Username": "Random",
             "RoomName": "Park"
         },
