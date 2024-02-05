@@ -17,17 +17,17 @@ namespace api
 				{
 					new Activities.Charades.word
 					{
-						EN_US = "talking ben",
+						EN_US = "poop",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "lemon",
+						EN_US = "lol",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "grape",
+						EN_US = "funny",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -62,7 +62,7 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "lean",
+						EN_US = "he",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
@@ -82,7 +82,7 @@ namespace api
 					},
 					new Activities.Charades.word
 					{
-						EN_US = "recroom2016",
+						EN_US = "top hat",
 						Difficulty = 0
 					},
 					new Activities.Charades.word
