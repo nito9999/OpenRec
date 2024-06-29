@@ -298,5 +298,20 @@
         "SupportsScreens": true,
         "SupportsWalkVR": true,
         "SupportsTeleportVR": true
+    },
+    {
+        "RoomId": 694200,
+        "Name": "TTTCity",
+        "Description": "",
+        "CreatorPlayerId": 999,
+        "ImageName": "ttt.png",
+        "State": 0,
+        "Accessibility": 1,
+        "SupportsLevelVoting": false,
+        "IsAGRoom": true,
+        "CloningAllowed": false,
+        "SupportsScreens": true,
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true
     }
 ]
