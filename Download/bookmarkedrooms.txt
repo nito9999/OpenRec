@@ -313,5 +313,20 @@
         "SupportsScreens": true,
         "SupportsWalkVR": true,
         "SupportsTeleportVR": true
+    },
+    {
+        "RoomId": 42069,
+        "Name": "thatgotyoutostop",
+        "Description": "",
+        "CreatorPlayerId": 420,
+        "ImageName": "rec.png",
+        "State": 0,
+        "Accessibility": 1,
+        "SupportsLevelVoting": false,
+        "IsAGRoom": true,
+        "CloningAllowed": false,
+        "SupportsScreens": true,
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true
     }
 ]
